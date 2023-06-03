@@ -1,9 +1,8 @@
-# alarme-em-js
-
-##  Um alarme em javascript
+##  Um alarme em Javascript
 <br>
 <p align="center">
-  <img src="screenshot.do.projeto.png"></img>
+  <img  alt="CSS" height="500" width="800" src="screenshot.do.projeto.png"></img>
+  <img  alt="CSS" height="500" width="800" src="screenshot.do.projeto [ativado].png"></img>
 </p>
 <br>
 
