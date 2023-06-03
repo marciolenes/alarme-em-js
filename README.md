@@ -18,4 +18,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Alarme em Javascript](https://relogiodigitaldinamico.netlify.app)
+- [Alarme em Javascript](https://alarme-em-js.netlify.app/)
